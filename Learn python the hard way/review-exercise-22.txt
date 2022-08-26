@@ -1,0 +1,89 @@
+Symbols and commands learned:
+
+ex1 & 2:
+print() - prints the values passed on the terminal
+#   	- hash symbol to comment words written after it till end of line
+'		- single qoute - to wrap strings
+"		- doublt qoute - to wrap strings
+
+
+ex3:
++ 		- addition of int number, or concats strings
+//		- integer division
+- 		- subtraction of numbers
+* 		- multiplication
+%		- mod - to find remainder of a division
+<		- less than symbol - compare two numbers
+> 		- greater than symbol - compare two numbers
+>= 		- greater than equal - compare if a number is either greater or equal to another number
+
+
+ex4: 
+= 		- equals - assignment operator to assign value to variables
+
+ex5:
+%s 		- string format character - place holder for a string inside a string template
+%d 		- integer formar character 
+%f 		- float format character
+%()		- values that should be assigned to format characters
+
+
+ex6:
+False 	- binary false
+True 	- binary true
+
+
+ex7:
+'.'*10	- prints '.' for ten times
+
+
+ex8:
+%r		- raw format character - used in debugging to print string as is in code
+
+
+ex9:
+'\n'	- new line character
+""" """ - tripe qoute - block string qoute for writing multi-line strings.
+
+
+ex10:
+'\t'	- tab space character
+'\'		- escape character - doesn't consider the next character in code
+\\		- used to print single \ character
+while	- to run same lines of code again and again till a condition is met
+
+
+ex11:
+input()	- read input from terminal and return its value as string
+
+
+ex12:
+input("prompt")	- display a prompt to help user understand what to enter.
+
+
+ex13 & 14:
+sys		- module in python
+argv	- a attribute in sys module - read the arguments passed to python in terminal
+
+
+ex15:
+open(filename)	- opens the given file in memory and returns a file object
+file.read()		- reads the contents of the file
+file.close()	- saves changes and closes the file
+
+
+ex16 & 17:
+'w'				- use with open() to open file in write mode. Empties contents
+'a'				- use to open in append mode, adds to existing content
+'r'				- use to open in read mode, prevents modification
+file.truncate()	- empty the file contents
+file.write()	- write values to the file
+
+
+ex18 & 19:
+def 			- used to define a function
+
+
+ex20:
+file.seek(0)	- rewinds file handle to starting of the file
+file.readline()	- reads the current line 
