@@ -19,7 +19,10 @@ Ex 22: Go back through every exercise and write down all the symbols used.
 Todo: 
 Revise the ex22 notes. 
 Read code from github, bitbucket, etc.
+Create a game story script and code it :) This really seems exciting. 
 	   
 Notes:
 Ex 20 -> could be new to Y.
+
+
 
