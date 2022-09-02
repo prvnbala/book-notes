@@ -25,4 +25,22 @@ Notes:
 Ex 20 -> could be new to Y.
 
 
+Ex 43:
+Process for OOP - 'top down' approach:
+
+	1. Write or draw about the problem
+	2. Extract key concepts from #1 and research them
+	3. Create a class hierarchy and object map for the concepts
+	4. Code the classes and a test to run them
+	5. Repeat and refine
+
+Write or draw about the problem.
+Take the nouns and write down the class hierarchy.
+Then take the verbs and put as functions into those class hierarchy.
+Repeat the process, till more and more clarity is achieved.
+
+Write a skeleton code with just class name and function names
+
+
+
 
