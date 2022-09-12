@@ -35,5 +35,6 @@ func main() {
 
 		//method 2
 		io.Copy(os.Stdout, resp.Body)
+		resp.Body.Close()
 	}
 }
